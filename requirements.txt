@@ -1,0 +1,25 @@
+# Core (Phase 1)
+anthropic>=0.40.0
+python-dotenv>=1.0.0
+httpx>=0.27.0
+psutil>=5.9.0
+
+# Voice (Phase 2) — uncomment when ready
+# faster-whisper>=1.0.0
+# piper-tts>=1.2.0
+# pyaudio>=0.2.14
+# sounddevice>=0.5.0
+
+# Voice Cloud (Phase 2 alternative)
+# elevenlabs>=1.0.0
+
+# Wake Word (Phase 3) — uncomment when ready
+# openwakeword>=0.6.0
+# pvporcupine>=3.0.0
+
+# Memory Upgrade (Phase 5) — uncomment when ready
+# chromadb>=0.5.0
+
+# Calendar/Email (Phase 4) — uncomment when ready
+# google-auth>=2.0.0
+# google-api-python-client>=2.0.0
